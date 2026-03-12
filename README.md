@@ -27,7 +27,7 @@ The status line updates automatically after each assistant response.
 1. Clone this repo:
 
    ```sh
-   git clone https://github.com/anthropics/claude-info-bar.git ~/.claude-info-bar
+   git clone https://github.com/brycehammond/claude-info-bar.git ~/.claude-info-bar
    ```
 
 2. Make the script executable (it should already be):
