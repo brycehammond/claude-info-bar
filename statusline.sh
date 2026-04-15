@@ -67,4 +67,5 @@ else
   BRANCH_STR=""
 fi
 
-echo -e "${BOLD}${CYAN}${MODEL}${RESET} ${DIM}│${RESET} ${DIR_SHORT}${BRANCH_STR} ${DIM}│${RESET} ${PCT_COLOR}${BAR} ${PCT}%${RESET}${TOKEN_STR}"
+echo -e "${BOLD}${CYAN}${MODEL}${RESET} ${DIM}│${RESET} ${DIR_SHORT}${BRANCH_STR}"
+echo -e "${PCT_COLOR}${BAR} ${PCT}%${RESET}${TOKEN_STR}"
